@@ -26,9 +26,6 @@ Soy un estudiante y desarrollador apasionado por la programación, los algoritmo
 
 ## 📁 Proyectos Destacados
 *   **Examinator3000**: *Un gestor interactivo de exámenes tipo test en desarrollo (Java MVC). Integra la API de Gemini para autogenerar preguntas de estudio y cuenta con soporte para guardado en JSON y formato binario.*
-*   **IPO-Bitacora-GuillermoP-rez**: *Bitácora de la asignatura.*
-*   **Gemini**: *Primeros pasos con el modelo Gemini.*
-*   **Ejercicios de POO (Java)**: *Prácticas y entregas universitarias.*
 
 ## 📫 Cómo contactarme
 - ✉️ Email: guillermoperezsanprimo@usal.es
