@@ -6,7 +6,7 @@ Soy un estudiante y desarrollador apasionado por la programación, los algoritmo
 
 ## 🔭 ¿Qué estoy haciendo actualmente?
 - 🎓 **Estudiando**: Ingeniería / Informática en la Universidad de Salamanca (USAL).
-- 💻 **Desarrollando**: Proyectos en **Java** (Programación Orientada a Objetos) y **C++** (Estructuras de Datos y Algoritmos).
+- 💻 **Desarrollando**: Proyectos **Frontend con React** y **Python**.
 - 🤖 **Explorando IA**: Integración y uso de asistentes de IA como **OpenClaw** y **Gemini** (¡mi asistente "Sirviente" me ayuda con este GitHub!).
 - 🕹️ **Administración de Servidores**: Gestiono servidores de Minecraft en Linux (Neoforge, Java 17/21).
 
@@ -16,8 +16,8 @@ Soy un estudiante y desarrollador apasionado por la programación, los algoritmo
 
 ## 🛠️ Tecnologías y Herramientas
 <p>
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
-  <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
   <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
