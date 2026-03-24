@@ -7,7 +7,7 @@ Soy un estudiante y desarrollador apasionado por la programación, los algoritmo
 ## 🔭 ¿Qué estoy haciendo actualmente?
 - 🎓 **Estudiando**: Ingeniería / Informática en la Universidad de Salamanca (USAL).
 - 💻 **Desarrollando**: Proyectos **Frontend con React** y **Python**.
-- 🤖 **Explorando IA**: Integración y uso de asistentes de IA como **OpenClaw** y **Gemini** (¡mi asistente "Sirviente" me ayuda con este GitHub!).
+- 🤖 **Explorando IA**: Integración y uso de asistentes de IA como **OpenClaw** y **Gemini**.
 - 🕹️ **Administración de Servidores**: Gestiono servidores de Minecraft en Linux (Neoforge, Java 17/21).
 
 ## 🌱 ¿Qué estoy aprendiendo?
