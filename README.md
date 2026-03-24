@@ -25,7 +25,7 @@ Soy un estudiante y desarrollador apasionado por la programación, los algoritmo
 </p>
 
 ## 📁 Proyectos Destacados
-*   **Examinator3000**: *Un gestor interactivo de exámenes tipo test en desarrollo (Java MVC). Integra la API de Gemini para autogenerar preguntas de estudio y cuenta con soporte para guardado en JSON y formato binario.*
+*   **[Examinator3000](https://github.com/Guillermo-258/Examinator3000)**: *Un gestor interactivo de exámenes tipo test en desarrollo (Java MVC). Integra la API de Gemini para autogenerar preguntas de estudio y cuenta con soporte para guardado en JSON y formato binario.*
 *   **[Gestión Sala Restaurante](https://github.com/Guillermo-258/Gestion-Sala-Restaurante)**: *Proyecto de Interfaces Gráficas de Usuario en WPF (.NET/C#). Representación visual interactiva y gestión de estados y comandas de mesas en tiempo real.*
 
 ## 📫 Cómo contactarme
